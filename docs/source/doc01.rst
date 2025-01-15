@@ -21,7 +21,14 @@ functional data sets. The programs are written in ANSI C and Motif 1.2 to run on
 
 https://andysbrainbook.readthedocs.io/en/latest/AFNI/AFNI_Short_Course/AFNI_fMRI_Intro.html
 
-Introduction to AFNI
+.. _AFNI_fMRI_Intro57:
+
+==============
+Introduction to AFNI
+==============
+
+------------
+
 This course will show you how to analyze an fMRI dataset from start to finish. We will begin by downloading a sample 
 dataset and inspecting the anatomical and functional images for each subject. We will then preprocess the data, which 
 removes noise and enhances the signal in the images. Once the images have been preprocessed, we will create a model 
