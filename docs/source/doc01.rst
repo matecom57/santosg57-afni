@@ -58,7 +58,9 @@ Downloading and Installing AFNI
 *******************************
 
 Depending on your computer’s operating system, you have several different options for downloading and installing the 
-AFNI package. The AFNI website has instructions on how to install the software on Windows, Macintosh, and different 
+AFNI package. The `AFNI website 
+<https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/background_install/install_instructs/index.html>`__  
+has instructions on how to install the software on Windows, Macintosh, and different 
 versions of Linux; a tutorial video on how to install AFNI on a Macintosh operating system can be found here.
 
 For Macintosh users, an installation app has been created that will streamline the process. Once you have downloaded 
