@@ -86,3 +86,8 @@ Video
 For a brief video introduction to AFNI and a walkthrough of how to download it, click here.
 
 
+-------------------------------------
+
+https://cbmm.mit.edu/afni
+
+
