@@ -46,8 +46,7 @@ published in the neuroimaging journals, and how to do a region of interest (ROI)
 
 .. figure:: Intro_Final_Map.png
 
-   A figure showing group-level results from the data used in this course, represented as a z-statistic map. Brighter  
-colors indicate larger z-scores. You will begin by preprocessing the raw data and end with creating a statistical map  
+   A figure showing group-level results from the data used in this course, represented as a z-statistic map. Brighter colors indicate larger z-scores. You will begin by preprocessing the raw data and end with creating a statistical map  
 like this one.
 
 This course is designed to build your confidence in working with fMRI data, increase your fluency with the basic terms 
