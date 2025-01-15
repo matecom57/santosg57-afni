@@ -29,8 +29,9 @@ Introduction to AFNI
 
 ------------
 
-This course will show you how to analyze an fMRI dataset from start to finish. We will begin by downloading a sample 
-dataset and inspecting the anatomical and functional images for each subject. We will then preprocess the data, which 
+This course will show you how to analyze an fMRI dataset from start to finish. We will begin by **downloading a sample 
+dataset** and inspecting the anatomical and functional images for each subject. We will then preprocess the data, 
+which 
 removes noise and enhances the signal in the images. Once the images have been preprocessed, we will create a model 
 representing what we think the BOLD signal, a measure of neural activity, should look like in our images. During model 
 fitting we compare this model with the signal in different areas of the image. This model fit is a measure of the 
@@ -43,17 +44,20 @@ course is to calculate a simple within-subjects contrast between two conditions,
 across subjects. You will also learn how to create figures showing whole-brain analyses, similar to what you see 
 published in the neuroimaging journals, and how to do a region of interest (ROI) analysis.
 
-../../_images/Intro_Final_Map.png
-A figure showing group-level results from the data used in this course, represented as a z-statistic map. Brighter 
+.. figure:: Intro_Final_Map.png
+
+   A figure showing group-level results from the data used in this course, represented as a z-statistic map. Brighter 
 colors indicate larger z-scores. You will begin by preprocessing the raw data and end with creating a statistical map 
-like this one.
+like this one.
 
 This course is designed to build your confidence in working with fMRI data, increase your fluency with the basic terms 
 of fMRI analysis, and help you make educated choices during each step. Some chapters have exercises to help you 
 practice what you’ve learned and to prepare you for the next chapter. Once you have mastered the fundamentals of this 
 course, you will be able to apply them to other datasets of your choosing.
 
-Downloading and Installing AFNI
+Downloading and Installing AFNI
+*******************************
+
 Depending on your computer’s operating system, you have several different options for downloading and installing the 
 AFNI package. The AFNI website has instructions on how to install the software on Windows, Macintosh, and different 
 versions of Linux; a tutorial video on how to install AFNI on a Macintosh operating system can be found here.
