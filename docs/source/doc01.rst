@@ -73,9 +73,10 @@ open. Close it, and from the same terminal type uber_subject.py and press return
 indicates that any Python-based programs should run without errors.
 
 ../../_images/Intro_AFNI_GUI.png
+
 When you have successfully installed AFNI and typed afni from the command line, you should see something like this.
 
-Note
+.. note::
 
 This course will not be covering MRI physics in depth. For a review of that topic, I recommend chapters 1-5 of the 
 book Functional Magnetic Resonance Imaging, by Huettel, Song, & McCarthy (3rd Edition). Also see Allen Elster’s 
