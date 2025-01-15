@@ -193,7 +193,10 @@ helpful to know the features of each software package. In this paper, several so
 they have been evaluated for comparison of their functionality and their features. The description of each program has 
 been discussed and summarized.
 
- ------------------------------------
+
+Processing, evaluating, and understanding FMRI data with afni_proc.py
+------------------------------------
+
 
 FMRI data are noisy, complicated to acquire, and typically go through many steps of processing before they are used in 
 a study or clinical practice. Being able to visualize and understand the data from the start through the completion of 
