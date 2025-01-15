@@ -67,7 +67,8 @@ For Macintosh users, an installation app has been created that will streamline t
 it here, simply unpack the app and follow the instructions; I recommend keeping the default boxes checked.
 
 If you do not have any of the required packages, such as R or Homebrew, the entire installation can take 1-2 hours. 
-When it has completed, open a Terminal, type afni, and then press return. You should see the graphical user interface 
+When it has completed, open a Terminal, type ``afni``, and then press return. You should see the graphical user 
+interface 
 open. Close it, and from the same terminal type uber_subject.py and press return. You should see this window, which 
 indicates that any Python-based programs should run without errors.
 
